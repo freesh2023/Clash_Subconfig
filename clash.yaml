@@ -1,11 +1,3 @@
-name: clash-rules
-desc: clash-rules 规则集覆写
-port: 7890
-socks-port: 7891
-allow-lan: true
-mode: Rule
-log-level: info
-external-controller: :9090
 rule-providers:
   reject:
     type: http
