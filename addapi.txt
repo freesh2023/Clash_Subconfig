@@ -1,5 +1,5 @@
 www.4chan.org:2053#US_cdn1
-www.wto.org:2053#US_cdn2
+www.gov.ua:2053#US_cdn2
 104.19.101.91:2053#US_cf1
 104.19.102.92:2053#US_cf2
 104.19.103.93:2053#US_cf3
