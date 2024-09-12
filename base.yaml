@@ -6,9 +6,12 @@ log-level: info
 external-controller: :9090
 dns:
   enabled: true
-  nameserver:
+  default-nameserver:
     - 119.29.29.29
     - 223.6.6.6
+  nameserver:
+    - https://223.6.6.6/dns-query
+    - tls://223.6.6.6
   fallback:
     - https://1.1.1.1/dns-query
     - https://8.8.8.8/dns-query
