@@ -10,10 +10,8 @@ dns:
     - 119.29.29.29
     - 223.6.6.6
   nameserver:
-    - https://223.6.6.6/dns-query
-    - tls://223.6.6.6
-  fallback:
     - https://1.1.1.1/dns-query
+    - tls://1.1.1.1
+  fallback:
     - https://8.8.8.8/dns-query
     - tls://8.8.8.8
-    - tls://1.1.1.1
