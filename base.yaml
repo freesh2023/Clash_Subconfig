@@ -9,9 +9,9 @@ dns:
   default-nameserver:
     - 119.29.29.29
     - 223.6.6.6
-  nameserver:
-    - https://8.8.8.8/dns-query
-    - https://1.1.1.1/dns-query
+  nameserver: 
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
   fallback:
     - https://8.8.8.8/dns-query
     - https://1.1.1.1/dns-query
