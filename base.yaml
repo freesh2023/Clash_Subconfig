@@ -10,9 +10,9 @@ dns:
     - 119.29.29.29
     - 223.6.6.6
   nameserver: 
-    - https://doh.pub/dns-query
-    - https://dns.alidns.com/dns-query
+    - https://223.6.6.6/dns-query
+    - https://1.12.12.12/dns-query
   fallback:
-    - https://dns.google/dns-query
-    - https://cloudflare-dns.com/dns-query
+    - https://1.1.1.1/dns-query
+    - https://8.8.8.8/dns-query
 
