@@ -1,7 +1,3 @@
-bestip.woyaoshangwang.top:2053#CF01
-vless.woyaoshangwang.top:2053#CF02
-bestip.woyaoshangwang.us.kg:2053#CF03
-vless.woyaoshangwang.us.kg:2053#CF04
 23.166.168.219:33158#US01
 23.165.248.56:22389#US02
 23.158.136.81:25864#US03
