@@ -1,7 +1,7 @@
-vless.woyaoshangwang.top:2053#CF01
-bestip.woyaoshangwang.top:2053#CF02
-vless.woyaoshangwang.us.kg:2053#CF03
-bestip.woyaoshangwang.us.kg:2053#CF04
+vless.woyaoshangwang.top:2053#CDN01
+bestip.woyaoshangwang.top:2053#CDN02
+vless.woyaoshangwang.us.kg:2053#CDN03
+bestip.woyaoshangwang.us.kg:2053#CDN04
 104.19.60.198:2053#US01
 104.19.60.196:2053#US02
 104.19.60.192:2053#US03
