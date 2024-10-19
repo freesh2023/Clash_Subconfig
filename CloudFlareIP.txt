@@ -1,6 +1,3 @@
-speed.marisalnc.com:2053#CDN2
-cloudflare.182682.xyz:2053#CDN3
-freeyx.cloudflare88.eu.org:2053#CDN4
 104.18.63.146:2096#US01
 104.18.62.238:2096#US02
 104.19.132.217:2053#US03
