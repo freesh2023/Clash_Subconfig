@@ -1,5 +1,5 @@
-speed.marisalnc.com:2053#CF01
-cloudflare.182682.xyz:2053#CF02
+speed.marisalnc.com:2053#CDN01
+cloudflare.182682.xyz:2053#CDN02
 104.18.63.146:2096#US01
 104.18.62.238:2096#US02
 104.19.132.217:2053#US03
