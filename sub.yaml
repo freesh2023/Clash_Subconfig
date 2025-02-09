@@ -16,7 +16,7 @@ dns:
     - https://1.1.1.1/dns-query
     - https://8.8.8.8/dns-query
 proxies:
-  - {name: Cloudflare, server: cloudflare.woyaoshangwang.top, port: 443, client-fingerprint: random, type: vless, uuid: 819c49c1-a44d-4d6e-80c7-363933028771, tls: true, tfo: false, skip-cert-verify: false, servername: vless.woyaoshangwang.us.kg, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vless.woyaoshangwang.us.kg}}}
+  - {name: Cloudflare, server: cloudflare.woyaoshangwang.us.kg, port: 443, client-fingerprint: random, type: vless, uuid: 819c49c1-a44d-4d6e-80c7-363933028771, tls: true, tfo: false, skip-cert-verify: false, servername: vless.woyaoshangwang.us.kg, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vless.woyaoshangwang.us.kg}}}
   - {name: CMCC01, server: 63.141.128.18, port: 443, client-fingerprint: random, type: vless, uuid: 819c49c1-a44d-4d6e-80c7-363933028771, tls: true, tfo: false, skip-cert-verify: false, servername: vless.woyaoshangwang.us.kg, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vless.woyaoshangwang.us.kg}}}
   - {name: CMCC02, server: 192.200.160.28, port: 443, client-fingerprint: random, type: vless, uuid: 819c49c1-a44d-4d6e-80c7-363933028771, tls: true, tfo: false, skip-cert-verify: false, servername: vless.woyaoshangwang.us.kg, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vless.woyaoshangwang.us.kg}}}
   - {name: CT01, server: 104.16.112.203, port: 443, client-fingerprint: random, type: vless, uuid: 819c49c1-a44d-4d6e-80c7-363933028771, tls: true, tfo: false, skip-cert-verify: false, servername: vless.woyaoshangwang.us.kg, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vless.woyaoshangwang.us.kg}}}
