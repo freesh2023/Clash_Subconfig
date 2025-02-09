@@ -26,9 +26,9 @@ proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - ☑️ 手动切换
       - 📶 电信优选
       - Ⓜ️ 移动优选
+      - ☑️ 手动切换
   - name: ☑️ 手动切换
     type: select
     proxies:
