@@ -1,5 +1,6 @@
-63.141.128.18:443#CMCC01
-192.200.160.28:443#CMCC02
-104.16.112.203:443#CT01
-104.18.31.11:443#CT02
-104.19.246.140:443#CT03
+caribbean.visa.com:443#US01
+support.cloudflare.com:443#US02
+developers.cloudflare.com:443#US03
+ai.cloudflare.com:443#US04
+blog.cloudflare.com:443#US05
+radar.cloudflare.com:443#US06
