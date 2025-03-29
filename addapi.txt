@@ -1,6 +1,8 @@
 caribbean.visa.com:443#US01
-support.cloudflare.com:443#US02
-developers.cloudflare.com:443#US03
-ai.cloudflare.com:443#US04
-blog.cloudflare.com:443#US05
-radar.cloudflare.com:443#US06
+www.epicgames.com:443#US02
+www.fortnite.com:443#US03
+blog.cloudflare.com:443#US04
+104.19.253.45:443#CF01
+104.19.137.175:443#CF02
+104.18.30.1:443#CF03
+104.18.22.192:443#CF04
