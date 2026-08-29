@@ -1,10 +1,8 @@
-auto.dolby.dpdns.org
 cf.3666888.xyz
 cdn.204910.best
 cucc.cloudflare.seeck.cn
 shopify.com
 www.visa.com
-www.speedtest.net
 162.159.243.252
 162.159.248.51
 104.17.111.116
