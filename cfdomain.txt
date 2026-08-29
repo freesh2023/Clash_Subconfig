@@ -1,10 +1,15 @@
 auto.dolby.dpdns.org
 cf.3666888.xyz
 cdn.204910.best
-cfsaas.080112.xyz
 cf.877774.xyz
-cf.090227.xyz
 cucc.cloudflare.seeck.cn
 shopify.com
 www.visa.com
 www.speedtest.net
+162.159.243.252
+162.159.248.51
+104.17.111.116
+162.159.233.122
+172.66.146.64
+104.18.61.61
+162.159.231.125
