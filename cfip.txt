@@ -1,5 +1,10 @@
-104.17.147.160
-104.17.136.254
-104.17.158.168
-104.17.155.159
-104.17.148.125
+shopify.com
+nexusmods.com
+mfa.gov.ua
+store.ubi.com
+cf.877774.xyz
+cf.090227.xyz
+cloudflare.seeck.cn
+ctcc.cloudflare.seeck.cn
+cmcc.cloudflare.seeck.cn
+cucc.cloudflare.seeck.cn
