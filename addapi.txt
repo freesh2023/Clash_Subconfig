@@ -1,7 +1,0 @@
-ns.cloudflare.com:443#Cloudflare
-caribbean.visa.com:443#US01
-www.epicgames.com:443#US02
-www.fortnite.com:443#US03
-172.64.33.237:443#CF01
-173.245.59.237:443#CF02
-172.64.35.47:443#CF03
