@@ -1,8 +1,8 @@
 cloudflare.seeck.cn
 auto.dolby.dpdns.org
-cf.3666888.xyz
 cdn.204910.best
+cf.3666888.xyz
 cf.877774.xyz
-mfa.gov.ua
+cf.770886.xyz
 shopify.com
 www.visa.com
