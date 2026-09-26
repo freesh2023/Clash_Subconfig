@@ -1,12 +1,12 @@
-www.speedtest.net:2053#US 联通优选[www.speedtest.net 141ms]
-www.mlkj888.com:2053#US 联通优选[www.mlkj888.com 151ms]
-uspto.gov:2053#US 联通优选[uspto.gov 175ms]
-www.dbs.com.sg:2053#US 联通优选[www.dbs.com.sg 178ms]
-www.mediafire.com:2053#US 联通优选[www.mediafire.com 180ms]
-pt.btschool.club:2053#US 联通优选[pt.btschool.club 180ms]
-images.chesscomfiles.com:2053#US 联通优选[images.chesscomfiles.com 181ms]
-dl.macked.app:2053#US 联通优选[dl.macked.app 181ms]
-academy.mastercard.com:2053#US 联通优选[academy.mastercard.com 182ms]
-www.ntu.edu.sg:2053#US 联通优选[www.ntu.edu.sg 182ms]
-dongbanghong.com:2053#US 联通优选[dongbanghong.com 182ms]
-kickstarter.com:2053#US 联通优选[kickstarter.com 183ms]
+www.speedtest.net
+www.mlkj888.com
+uspto.gov
+www.dbs.com.sg
+www.mediafire.com
+pt.btschool.club
+images.chesscomfiles.com
+dl.macked.app
+academy.mastercard.com
+www.ntu.edu.sg
+dongbanghong.com
+kickstarter.com
