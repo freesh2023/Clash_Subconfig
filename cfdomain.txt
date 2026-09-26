@@ -7,3 +7,6 @@ cf.877774.xyz
 cucc.cloudflare.seeck.cn
 auto.dolby.dpdns.org
 cdn.204910.best
+shopify.com
+mfa.gov.ua
+store.ubi.com
