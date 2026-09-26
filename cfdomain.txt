@@ -1,4 +1,4 @@
-cloudflare.seeck.cn
+cucc.cloudflare.seeck.cn
 auto.dolby.dpdns.org
 cdn.204910.best
 cf.3666888.xyz
