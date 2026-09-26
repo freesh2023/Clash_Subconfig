@@ -1,9 +1,9 @@
-cucc.cloudflare.seeck.cn
-auto.dolby.dpdns.org
-cdn.204910.best
-cf.3666888.xyz
-cf.877774.xyz
 cf.freesz.ccwu.cc
 cf.freesh.ccwu.cc
 cf.freegz.ccwu.cc
 cf.freebj.ccwu.cc
+cf.3666888.xyz
+cf.877774.xyz
+cucc.cloudflare.seeck.cn
+auto.dolby.dpdns.org
+cdn.204910.best
