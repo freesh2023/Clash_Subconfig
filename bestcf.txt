@@ -15,6 +15,6 @@ www.udacity.com
 deepseek.com.hk
 staticdelivery.nexusmods.com
 unpkg.com
-www.shopify.com
+shopify.com
 www.vmware.com
 gh-proxy.com
