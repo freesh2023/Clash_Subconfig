@@ -1,3 +1,4 @@
+www.mastervolt.com
 www.tpg.com
 store.ubi.com
 uspto.gov
@@ -5,7 +6,6 @@ www.dbs.com.sg
 www.mediafire.com
 pt.btschool.club
 images.chesscomfiles.com
-dl.macked.app
 academy.mastercard.com
 dongbanghong.com
 kickstarter.com
@@ -16,3 +16,5 @@ deepseek.com.hk
 staticdelivery.nexusmods.com
 unpkg.com
 www.shopify.com
+www.vmware.com
+gh-proxy.com
