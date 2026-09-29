@@ -1,4 +1,4 @@
 www.shopify.com
 www.visa.com.hk
 www.speedtest.net
-mokeedev.com
+gh-proxy.com
