@@ -1,3 +1,4 @@
+www.shopify.com
 static.elfsight.com
 www.owlgraphic.com
 www.tpg.com
@@ -15,10 +16,3 @@ uspto.gov
 www.udacity.com
 www.vastnovel.com
 dongbanghong.com
-www.shopify.com
-deepseek.com.hk
-chrono24.com
-unpkg.com
-staticdelivery.nexusmods.com
-www.mastervolt.com
-kickstarter.com
