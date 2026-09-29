@@ -1,7 +1,6 @@
 www.shopify.com
 static.elfsight.com
 www.owlgraphic.com
-www.tpg.com
 store.ubi.com
 www.vmware.com
 academy.mastercard.com
@@ -10,7 +9,6 @@ dianomi.com
 gh-proxy.com
 images.chesscomfiles.com
 pt.btschool.club
-www.mediafire.com
 mvnrepository.com
 uspto.gov
 www.udacity.com
