@@ -1,4 +1,2 @@
 www.speedtest.net
-01-cctv.com
 101yaoye.com
-cloudflare-ip.mofashi.ltd
