@@ -1,2 +1,8 @@
 www.speedtest.net
 cf.woyaoshangwang.dns-dynamic.net
+sjc01.bestip.l.cd
+sjc02.bestip.l.cd
+sjc03.bestip.l.cd
+sjc04.bestip.l.cd
+cf01.bestip.l.cd
+cf02.bestip.l.cd
