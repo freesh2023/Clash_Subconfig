@@ -1,2 +1,2 @@
 www.speedtest.net
-gh-proxy.com
+cf.woyaoshangwang.dns-dynamic.net
