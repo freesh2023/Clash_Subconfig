@@ -3,3 +3,5 @@ gh-proxy.com
 www.udacity.com
 dongbanghong.com
 www.speedtest.net
+cf01.bestip.l.cd
+cf02.bestip.l.cd
