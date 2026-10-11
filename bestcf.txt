@@ -1,4 +1,0 @@
-cf01.bestip.l.cd
-cf02.bestip.l.cd
-cf03.bestip.l.cd
-cf04.bestip.l.cd
